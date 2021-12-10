@@ -1,21 +1,33 @@
 **Testing GET ALL (first time)**
-![](first-get-all.png)
+
+![](screenshot/get-all.png)
+
 
 **Testing GET BY ID**
-![](get-by-id.png)
+
+![](screenshot/get-id.png)
+
 
 **Testing POST**
-![](post.png)
+
+![](screenshot/post.png)
+
 
 **Testing UPDATE**
-![](update.png)
+
+![](screenshot/update.png)
+
 
 **Testing DELETE**
+
 ![](screenshot/delete.png)
 
+
 **Testing GET ALL (after all updates)**
+
 ![](get-all-after-updt.png)
 
-**Documentation**
 
-[Lihat disini](https://documenter.getpostman.com/view/18560650/UVR4MpbS)
+
+**Documentation**
+[Link Postman](https://documenter.getpostman.com/view/18560650/UVR4MpbS)

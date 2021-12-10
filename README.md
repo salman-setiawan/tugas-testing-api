@@ -11,7 +11,7 @@
 ![](update.png)
 
 **Testing DELETE**
-![](delete.png)
+![](screenshot/delete.png)
 
 **Testing GET ALL (after all updates)**
 ![](get-all-after-updt.png)
